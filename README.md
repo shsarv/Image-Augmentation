@@ -5,6 +5,8 @@
 - Image Data Augmentation with Keras.
 - Use Image Data Generator with a Keras Model.
 
+### Task 
+
 The project on Image Data Augmentation with Keras is divided into following tasks:
 
 Task 1: Introduction and Importing Libraries
